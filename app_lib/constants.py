@@ -6,7 +6,7 @@ KEY_ESPEAK_PATH = "espeak/path"
 KEY_ESPEAK_ARGS = "espeak/args"
 KEY_OUTPUT_PATH = "path/output"
 
-FILE_FILTER = "OmongObot (*.obo);;Text files (*.txt *.text);;All files (*)"
+FILE_FILTER = "Omongobot (*.obo);;Text files (*.txt *.text);;All files (*)"
 KEY_FIELD = "field"
 KEY_ARGS = "args"
 KEY_NAME = "name"
